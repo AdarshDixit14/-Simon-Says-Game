@@ -1,0 +1,30 @@
+body{
+   text-align: center;
+}
+.btnContainer{
+   display: flex;
+   justify-content: center;
+}
+.btn{
+   height: 180px;
+   width: 180px;
+   border-radius: 20%;
+   border: 7px solid black;
+   margin: 2rem;
+}
+.btn1{
+   background-color: #f99b45;
+}
+.btn2{
+   background-color: #d96980;
+}
+.btn3{
+   background-color: #6686e3;
+}
+.btn4{
+   background-color: #63aac0;
+}
+
+.flash{
+   background-color: white;
+}
